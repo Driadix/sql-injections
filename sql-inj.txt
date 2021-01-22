@@ -1,0 +1,2 @@
+comma avoid
+UniOn SeleCt * fRom flag join (sElect 123) as a join (seLect 2) as b
