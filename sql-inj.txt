@@ -1,2 +1,2 @@
 comma avoid
-UniOn SeleCt * fRom flag join (sElect 123) as a join (seLect 2) as b
+UniOn SeleCt * fRom somewhere join (sElect 123) as a join (seLect 2) as b ...<join (select n) as n>
