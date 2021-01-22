@@ -9,3 +9,7 @@ SELECT/**/*/**/FROM/**/table
 select replace case-insensitive
 ___________________________________________________________________________________________________________________________________________________________________________________
 SELSELECTECT <SEL|SELECT|ECT> (without | ofc) 
+
+hex 0x banned and no equal (=) if we know some part of what we need with numbers
+___________________________________________________________________________________________________________________________________________________________________________________
+SELECT id, name, desc FROM table WHERE name regex[ 2020 and 3233 (flag as example 0fkjsjdk4jksdlk2020sajkdjfklbpok3233)
